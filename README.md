@@ -4,11 +4,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Pre-requisites
  
- Node
+ `Node`
 
 ## Configuration 
 
-Edit the following files and add Localytics-app-key : \src\environments\environment.ts, \src\environments\environment.prod.ts
+Edit the following files and add Localytics-app-key : `\src\environments\environment.ts`, `\src\environments\environment.prod.ts`
 
 ## Development server
 
